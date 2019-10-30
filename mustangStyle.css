@@ -9,6 +9,15 @@ body {
     h2 {font-size: 35px; font-family: Arial; color: red; text-align: center;}
     h3:hover {color: goldenrod;}
     h4 {color: red; text-align: center; text-decoration: line-through;}
+
+    .header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+    }
+    
     div {
         border: 8px solid black; 
         padding: 20px; width: 100 px; height: 235px; 
