@@ -7,10 +7,10 @@
 }
 
 body {
-        background-image:url("ftlaudsunset.jpg");
-        background-color:#cccccc; 
-        background-position: 50% 50%;  
-        color: white; text-align: center; font-family: Arial;  
+  background-image:url("ftlaudsunset.jpg");
+  background-color:#cccccc; 
+  background-position: 50% 50%;  
+  color: white; text-align: center; font-family: Arial;  
 }
 
 h3 {color: red; text-align: center; text-decoration: underline;}
@@ -20,10 +20,10 @@ h3:hover {color: goldenrod;}
 h4 {color: red; text-align: center; text-decoration: line-through;}
 
 div {
-        border: 8px solid black; 
-        padding: 20px; width: 100 px; height: 235px; 
-        text-align: justify; 
-       /* background-image:url("zapdos2.gif"); */
+  border: 8px solid black; 
+  padding: 20px; width: 100 px; height: 235px; 
+  text-align: justify; 
+  /* background-image:url("zapdos2.gif"); */
 }
 
 .sidenav {
@@ -49,14 +49,14 @@ div {
 @media screen and (max-height: 450px) {.sidenav {padding-top: 15px;} .sidenav a {font-size: 18px;}}
 
 p.blockMsg {
-    padding: 20px; 
-    border: 4px solid #000000;
-    word-wrap: break-word;  
-    color: goldenrod; 
-    text-align: center; 
-    font-family: Arial; 
-    background-color: black; 
-    opacity: 0.75; 
-    }
+  padding: 20px; 
+  border: 4px solid #000000;
+  word-wrap: break-word;  
+  color: goldenrod; 
+  text-align: center; 
+  font-family: Arial; 
+  background-color: black; 
+  opacity: 0.75; 
+  }
 
-  audio {display: none;}
+audio {display: none;}
