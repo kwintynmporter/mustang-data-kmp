@@ -17,14 +17,14 @@ body {
     font-style: italic;
     font-size: 30px;
     }
-/*
+
     div {
         border: 8px solid black; 
         padding: 20px; width: 100 px; height: 235px; 
         text-align: justify; 
-        background-image:url("zapdos2.gif"); 
+       /* background-image:url("zapdos2.gif"); */
     }
-*/
+
     .sidenav {
   height: 100%; width: 90px;
   position: fixed;
