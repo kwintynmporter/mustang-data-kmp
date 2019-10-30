@@ -57,8 +57,4 @@ body {
     opacity: 0.75; 
     }
   audio {display: none;}
-
-  ::selection {
-    background-color: orangered; 
-    color: #000; 
-  }
+::selection {background-color: orangered; color: #000;}
