@@ -14,7 +14,7 @@ body {
 }
 
 h3 {color: red; text-align: center; text-decoration: underline;}
-h2:hover {color: goldenrod;}
+/* h2:hover {color: goldenrod;} */
 h2 {font-size: 35px; font-family: Arial; color: red; text-align: center;}
 h3:hover {color: goldenrod;}
 h4 {color: red; text-align: center; text-decoration: line-through;}
