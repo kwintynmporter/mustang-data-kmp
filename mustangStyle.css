@@ -19,11 +19,12 @@ h2 {font-size: 35px; font-family: Arial; color: red; text-align: center;}
 h3:hover {color: goldenrod;}
 h4 {color: red; text-align: center; text-decoration: line-through;}
 
-/* div {
+.border {
   border: 8px solid black; 
   padding: 20px; width: 100 px; height: 235px; 
   text-align: justify; 
-  /* background-image:url("zapdos2.gif");  } */
+  /*background-image:url("zapdos2.gif");*/ 
+}
 
 .sidenav {
   height: 100%; width: 90px;
@@ -32,8 +33,6 @@ h4 {color: red; text-align: center; text-decoration: line-through;}
   background-color: #111;
   overflow-x: hidden;
   padding-top: 20px;
-  border: 8px solid black; 
-  text-align: justify;
 }
 
 .sidenav a {
