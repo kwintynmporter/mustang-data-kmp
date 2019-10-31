@@ -32,6 +32,8 @@ h4 {color: red; text-align: center; text-decoration: line-through;}
   background-color: #111;
   overflow-x: hidden;
   padding-top: 20px;
+  border: 8px solid black; 
+  text-align: justify;
 }
 
 .sidenav a {
